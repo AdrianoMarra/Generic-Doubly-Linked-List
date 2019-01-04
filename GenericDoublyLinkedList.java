@@ -1,5 +1,3 @@
-package Hw_Lesson_08_2;
-
 import java.util.Objects;
 
 public class GenericDoublyLinkedList<T> {
