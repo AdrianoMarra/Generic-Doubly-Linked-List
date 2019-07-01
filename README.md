@@ -1,5 +1,5 @@
 # Generic-Doubly-Linked-List
-This is a simple "generic doubly linked list" implementation in Java. (For academic purposes)
+📚 This is a simple "generic doubly linked list" implementation in Java. (For academic purposes)
 
 This code is just a sample of how to create a generic doubly linked list from scratch in Java, 
 I used a class "Node" to wrap the nodes and their next and previous nodes pointers. In the real world you could just 
